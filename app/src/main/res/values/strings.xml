@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Finnkino</string>
+    
+    <string-array name="theater_dropdown_array">
+        <item>Valitse teatteri</item>
+        <item>Strand</item>
+        <item>Kuopio</item>
+        <item>Tennispalatsi</item>
+    </string-array>
+
+
+</resources>
